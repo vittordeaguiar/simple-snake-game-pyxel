@@ -1,2 +1,3 @@
 # simple-snake-game-pyxel
-Jogo simples feito com Python utilizando a biblioteca Pyxel. Feito para um trabalho da universidade.
+
+Snake Game simples feito com Python fazendo uso da biblioteca Pyxel. Fiz para realizar um trabalho da universidade.
